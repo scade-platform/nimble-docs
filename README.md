@@ -1,1 +1,1 @@
-Nimble Docs for VuePress
+Nimble Docs for VuePress 2
