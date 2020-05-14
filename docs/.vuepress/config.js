@@ -1,4 +1,5 @@
 module.exports = {
+  base: '/nimble-docs/',
   plugins: [
     [
       'vuepress-plugin-serve',
@@ -18,7 +19,6 @@ module.exports = {
   title: 'NIMBLE',
   description: 'Native Mac OS Swift IDE ',
   heroImage: '/assets/NimbleIcon.png',
-  base: '/nimble-docs/',
  // theme: 'theme-default',
  // port : 8888,
   themeConfig: {

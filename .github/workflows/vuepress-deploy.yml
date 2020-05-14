@@ -14,4 +14,4 @@ jobs:
         TARGET_REPO: scade-platform/nimble-docs
         TARGET_BRANCH: master
         BUILD_SCRIPT: yarn && yarn build
-        BUILD_DIR: /docs/.vuepress/dist/
+        BUILD_DIR: nimble-docs/docs/.vuepress/dist/
