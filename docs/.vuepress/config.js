@@ -19,7 +19,7 @@ module.exports = {
   description: 'Native Mac OS Swift IDE ',
   heroImage: '/assets/NimbleIcon.png',
 
-  // base: '/Users/flangel/temp/nimble-docs/.vuepress/dist/'
+  // base: '/nimble-docs/'
  // theme: 'theme-default',
  // port : 8888,
   themeConfig: {
