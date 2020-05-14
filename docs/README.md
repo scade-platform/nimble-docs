@@ -5,7 +5,7 @@
   </tr>
  </table>
 
-#### Last update: 14 May 2020
+#### Last update: $page.lastUpdated
 
 
 ## Quick Links
