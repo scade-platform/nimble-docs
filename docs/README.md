@@ -2,7 +2,7 @@
 <img src="./assets/NimbleIcon.png" width="200" height="200">
 
 
-## Quick Links 1
+## Quick Links
 
 | Use | Extend |Download| Discuss |
 | ------------- |-------------|:-----:|:-----:|
