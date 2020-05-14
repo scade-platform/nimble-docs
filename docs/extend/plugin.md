@@ -1,0 +1,1 @@
+A PlugIn development guide will be available shortly. In the meantime, study the code on GitHub and please questions on our slack channel
