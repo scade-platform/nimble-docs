@@ -37,7 +37,7 @@ module.exports = {
    { text: 'Use', link: '/users/' },
 	 { text: 'Extend', link: '/extend/' },
 	 { text: 'Download', link: '/download' },
- 	 { text: 'GitHub', link: 'https://www.google.com' } 
+ 	// { text: 'GitHub', link: 'https://www.google.com' } 
       // {
       //   text: 'Languages',
       //   ariaLabel: 'Language Menu',
