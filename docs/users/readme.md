@@ -34,7 +34,7 @@ CodeRunner. It's great for quick quick tasks and running code snippets in differ
 Nimble requires
 
 * macOS 10.14 or higher
-* Swift compiler 5.1 or higher
+* Swift compiler 5.2 or higher
 
 ### Install
 

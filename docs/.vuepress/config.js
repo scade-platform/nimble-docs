@@ -21,17 +21,17 @@ module.exports = {
     ['@vuepress/last-updated']
   ],
   //
-  title: 'NIMBLE',
-  description: 'Beautiful MacOS native, open-source Swift IDE',
+  title: 'NIMBLE IDE',
+  description: 'Beautiful MacOS native, open-source Swift and multi-language IDE',
   heroImage: '/assets/NimbleIcon.png',
-  editLinkText: 'Improve this page!',
  // theme: 'theme-default',
  // port : 8888,
   themeConfig: {
     // enable links to edit repo page
     repo: 'scade-platform/nimble-docs',
     docsDir: 'docs',
-
+    editLinks: true,
+    editLinkText: 'Improve this page!',
   	 // displayAllHeaders: true, // Default: false
     nav: [
    { text: 'Use', link: '/users/' },
