@@ -7,7 +7,7 @@
 
 
 
-## Quick Links 3
+## Quick Links
 
 | Use | Extend |Download| Discuss |
 | ------------- |-------------|:-----:|:-----:|
