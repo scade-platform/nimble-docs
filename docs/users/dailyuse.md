@@ -4,11 +4,12 @@ Nimble uses key shortcuts for its power user. You can find the shortscuts in the
 Moreover, a list of key shortcuts that work nicely in the editor window can be found here [Mac Official Documentation](https://support.apple.com/en-us/HT201236). Look for Document Shortcuts further down the document
 
 ## Nimble Settings
-You can configure Nimble by making changes to the setting files. On the main, use Nimble > Preference > Settings to open the settings file. Below the available settings and allowed values. Change the values and save the files. The changes are effective immediately.
+You can configure Nimble by making changes to the setting files. From the main menu, use Nimble > Preference > Settings to open the settings file. Below the available settings and allowed values. Change the values and save the file. The changes are effective immediately.
 
 | Area | Variable | Effect | Values| Comment |
-| ------------- |-------------|:-----:|:-----:|:-----:|
-| workbench | workbench.tabCloseButtonPosition | Set position of tab close button to left or right | left, right | |
+| ------------- |-------------|:-----:|:-----:|
+| workbench | workbench.tabCloseButtonPosition | Set position of tab close button to left or right | left, right |
+| workbench | workbench.showFileIconsInTabs | Display icons within tabs | true, false |
 
 
 ## Running an SPM project
