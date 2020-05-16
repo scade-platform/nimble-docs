@@ -5,5 +5,4 @@ By extending and contributing to the documentation, you help Nimble thrive. We a
 * Clarifications in existing chapters
 * Authoring new chapters and articels
 
-## 3 Simple steps to change the documentation
-
+You can easily edit the documentation by pressing the link at the end of the page.
