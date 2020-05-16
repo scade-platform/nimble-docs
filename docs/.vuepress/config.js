@@ -15,9 +15,10 @@ module.exports = {
         },
       },
     ],
+    ['@vuepress/last-updated']
   ],
   title: 'NIMBLE',
-  description: 'Native Mac OS Swift IDE ',
+  description: 'Beautiful MacOS native, open-source Swift IDE',
   heroImage: '/assets/NimbleIcon.png',
  // theme: 'theme-default',
  // port : 8888,
