@@ -6,7 +6,7 @@ Moreover, a list of key shortcuts that work nicely in the editor window can be f
 ## Nimble Settings
 You can configure Nimble by making changes to the setting files. From the main menu, use Nimble > Preference > Settings to open the settings file. Below the available settings and allowed values. Change the values and save the file. The changes are effective immediately.
 
-| Area | Variable | Effect | Values| Comment |
+| Area | Variable | Effect | Values|
 | ------------- |-------------|:-----:|:-----:|
 | workbench | workbench.tabCloseButtonPosition | Set position of tab close button to left or right | left, right |
 | workbench | workbench.showFileIconsInTabs | Display icons within tabs | true, false |
