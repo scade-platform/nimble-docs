@@ -1,6 +1,6 @@
 module.exports = {
   // set base
-  base: '/',
+  base: '/nimble-docs/',
 
   // add plugins
   plugins: [
