@@ -5,6 +5,9 @@
   </tr>
  </table>
 
+#### Last update: $page.lastUpdated {{$page.lastUpdated}} {$page.lastUpdated}
+
+
 ## Quick Links
 
 | Use | Extend |Download| Discuss |
