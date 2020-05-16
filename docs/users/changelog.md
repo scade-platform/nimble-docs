@@ -4,7 +4,7 @@
 
 ## Release History
 
-### Version 1.0 (May 2020) - Initial Release and Launch of Nimble  
+### Version 1.0 (May 2020) - First Release and announcing Nimble to the Swift community
 Welcome to our first release of NIMBLE - our awesome, extendable, open source Swift and multi-language IDE. Main features include
 * Native, high performance IDE
 * Eye pleasing UI following Apple UX guidelines
