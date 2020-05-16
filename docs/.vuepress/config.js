@@ -1,5 +1,8 @@
 module.exports = {
+  // set base
   base: '/nimble-docs/',
+
+  // add plugins
   plugins: [
     [
       'vuepress-plugin-serve',
@@ -17,12 +20,18 @@ module.exports = {
     ],
     ['@vuepress/last-updated']
   ],
+  //
   title: 'NIMBLE',
   description: 'Beautiful MacOS native, open-source Swift IDE',
   heroImage: '/assets/NimbleIcon.png',
+  editLinkText: 'Improve this page!',
  // theme: 'theme-default',
  // port : 8888,
   themeConfig: {
+    // enable links to edit repo page
+    repo: 'scade-platform/nimble-docs',
+    docsDir: 'docs',
+
   	 // displayAllHeaders: true, // Default: false
     nav: [
    { text: 'Use', link: '/users/' },
